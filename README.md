@@ -1,4 +1,4 @@
-Of course. Here is a comprehensive `README.md` file based on the provided Jupyter Notebook. You can copy the content below and save it in a file named `README.md`.
+
 
 -----
 
@@ -115,4 +115,3 @@ Mad Max Beyond Thunderdome
 Apollo 18
 ```
 
-[cite\_start][cite: 47]
